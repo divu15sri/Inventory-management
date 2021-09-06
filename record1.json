@@ -1,0 +1,212 @@
+{
+  "1001": {
+    "name": "chocolate",
+    "pr": 10,
+    "qn": 100,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1002": {
+    "name": "coke",
+    "pr": 20,
+    "qn": 10,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1003": {
+    "name": "pen",
+    "pr": 10,
+    "qn": 200,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1004": {
+    "name": "pencil",
+    "pr": 10,
+    "qn": 100,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1005": {
+    "name": "milk",
+    "pr": 20,
+    "qn": 50,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1006": {
+    "name": "wallet",
+    "pr": 56,
+    "qn": 28,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1007": {
+    "name": "box",
+    "pr": 60,
+    "qn": 80,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1008": {
+    "name": "comb",
+    "pr": 90,
+    "qn": 150,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1009": {
+    "name": "mic",
+    "pr": 66,
+    "qn": 340,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1010": {
+    "name": "powder",
+    "pr": 45,
+    "qn": 600,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1011": {
+    "name": "lipstick",
+    "pr": 600,
+    "qn": 100,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1012": {
+    "name": "buiscuits",
+    "pr": 60,
+    "qn": 500,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1013": {
+    "name": "bhoojiya",
+    "pr": 200,
+    "qn": 200,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1014": {
+    "name": "lip balm",
+    "pr": 500,
+    "qn": 340,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1015": {
+    "name": "kitkat",
+    "pr": 50,
+    "qn": 900,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1016": {
+    "name": "parle",
+    "pr": 30,
+    "qn": 800,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1017": {
+    "name": "perk",
+    "pr": 45,
+    "qn": 10,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1018": {
+    "name": "goodday",
+    "pr": 32,
+    "qn": 180,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1019": {
+    "name": "soap",
+    "pr": 60,
+    "qn": 100,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1020": {
+    "name": "oil",
+    "pr": 230,
+    "qn": 40,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1021": {
+    "name": "coconut",
+    "pr": 220,
+    "qn": 450,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1022": {
+    "name": "orange",
+    "pr": 78,
+    "qn": 50,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1023": {
+    "name": "banana",
+    "pr": 89,
+    "qn": 48,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1024": {
+    "name": "lakme",
+    "pr": 200,
+    "qn": 100,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1025": {
+    "name": "colormate",
+    "pr": 450,
+    "qn": 20,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1026": {
+    "name": "lichi",
+    "pr": 40,
+    "qn": 400,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1027": {
+    "name": "potato",
+    "pr": 110,
+    "qn": 48,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1028": {
+    "name": "dairy milk",
+    "pr": 200,
+    "qn": 409,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1029": {
+    "name": "shampoo",
+    "pr": 544,
+    "qn": 78,
+    "ex_date": 2022,
+    "pack_date": 2021
+  },
+  "1030": {
+    "name": "tea",
+    "pr": 60,
+    "qn": 43,
+    "ex_date": 2022,
+    "pack_date": 2021
+  }
+}
